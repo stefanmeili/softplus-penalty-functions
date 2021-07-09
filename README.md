@@ -6,5 +6,7 @@ See <a href="https://docs.google.com/viewer?url=https://github.com/stefanmeili/s
 
 Warning: takes several hours to run on a 12 core / 24 thread machine. Reduce n_tasks to reduce the number of experiments.
 
+Alternatively, raw data can be downloaded from <a href="https://github.com/stefanmeili/softplus-penalty-functions/raw/main/results.csv.zip"> results.csv.zip </a>
+
 ## Requirements
 numpy, pandas, and scipy 1.6.2 (to ensure comparable results)
